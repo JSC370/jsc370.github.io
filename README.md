@@ -19,6 +19,13 @@
 ---
 ### Week 1 - Background, motivation, course setup
 
+Jan 12 Lecture:
+[Video](https://play.library.utoronto.ca/9ac9b25727a49764c13ad038400c32f8)
+[Slides]()
+
+Tutorial:
+[Video](https://play.library.utoronto.ca/ff44be69e8e5f022da9f587e1ac457b5)
+
 
 
 ***
