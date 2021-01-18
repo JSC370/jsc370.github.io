@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>JSC370H1S - Assignment Grading Rubrics</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">JSC370H1S - University of Toronto</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Course
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="jsc370coursedocs_2020.html">
+        <span class="fas fa fas fa-info"></span>
+         
+        Class Documents
+      </a>
+    </li>
+    <li>
+      <a href="jsc370classlabstruct_2020.html">Course Structure</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="jsc370syllabus_2020.html">Syllabus</a>
+</li>
+<li>
+  <a href="jsc370schedule_2020.html">Schedule</a>
+</li>
+<li>
+  <a href="jsc370assignments_2020.html">Assignments</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">JSC370H1S - Assignment Grading Rubrics</h1>
+
+</div>
+
+
+<p><br></p>
+<div id="data-analysis-rubric" class="section level1">
+<h1>Data Analysis Rubric</h1>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Category</th>
+<th align="left">5</th>
+<th align="left">4</th>
+<th align="left">3</th>
+<th align="left">2</th>
+<th align="left">1</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Exploratory data analysis</td>
+<td align="left">Intense exploration and evidence of many trials and failures. You have looked at the data in many different ways before coming to your final answer. You have gone beyond what was asked: additional research from other sources used to help understand/explain findings. Your explanation and presentation is creative.</td>
+<td align="left">Plenty of exploration and investigation. Some additional research helps explain findings, and some of your ideas are creatively presented and explained.</td>
+<td align="left">Some exploration, but little evidence that you have selected the best of many ideas. Little or no additional research.</td>
+<td align="left">You have done the bare minimum that was asked. There is no evidence to suggest that you tried multiple approaches (tables, graphics, or models) before coming to your final conclusion.</td>
+<td align="left">Questions are simple, and there is no evidence of exploration. You have not come up with your own questions of the data, but relied on those we discussed in class</td>
+</tr>
+<tr class="even">
+<td align="left">Reasoning about data</td>
+<td align="left">You suggest multiple explanations for a given finding, and use multiple tools to explore surprising results. You present one or two as the most plausible, but have allowed for the possibility that you are wrong. You are self-critical: What did I do well? What did I do poorly? What have I missed? How could I do better next time? You identify flaws in methodology and provide suggestions as to how they could be remedied. You don’t blindly accept perceived wisdom, but challenge preconceived notions and come up with interesting new ways of testing them.</td>
+<td align="left">You are sceptical and self-critical, but not consistently. There is some critical analysis, and some use of multiple techniques to answer the same question.</td>
+<td align="left">You haven’t blinded accepted findings, but you haven’t come up with many ways to check your results either. There is little self-criticism and little evidence to suggest you have thought about how to do better in the future.</td>
+<td align="left">Some findings accepted without question. Self- criticism weak.</td>
+<td align="left">Findings accepted uncritically. Leaps of logic without justification. You have not thought about how to do better next time.</td>
+</tr>
+<tr class="odd">
+<td align="left">Report organization</td>
+<td align="left">Findings very well organised. Clear headings demarcate separate sections. Excellent flow from one section to the next. The paper is easy to scan. An abstract or summary at the start of the paper briefly summarises your approach and findings. Conclusions at the end present further questions and ways to investigate more. Tables and graphics carefully tuned and placed for desired purpose.</td>
+<td align="left">Findings well organised and sections clearly separated, but flow is lacking. Each section has clear purpose. Tables and graphics clear and well chosen</td>
+<td align="left">Generally well organised, but some sections muddled. Tables or graphics appropriate, but some are poorly presented - too many decimal places, poorly chosen aspect ratio etc.</td>
+<td align="left">Sections unclear and no attempt to flow from one topic to the next. Graphics and tables poorly chosen to support questions. Some have fundamental flaws.</td>
+<td align="left">It is hard to read your paper. There are no headings, figures are far away from where they are referenced in the text. There is no summary or conclusion.</td>
+</tr>
+</tbody>
+</table>
+<p><br> <br></p>
+</div>
+<div id="programming-rubric" class="section level1">
+<h1>Programming Rubric</h1>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Category</th>
+<th align="left">5</th>
+<th align="left">4</th>
+<th align="left">3</th>
+<th align="left">2</th>
+<th align="left">1</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Planning of code and statistical analysis</td>
+<td align="left">Introductory comment describes overall strategy and gives evidence of preliminary planning. Thoughtful problem decomposition breaks the problem into independent pieces that can be solved easily.</td>
+<td align="left">Evidence of planning before coding, but some flaws in overall strategy.</td>
+<td align="left">More planning needed: overall strategy ok, but have missed some obvious ways of making the code simpler.</td>
+<td align="left">It all hangs together, but planning was absent or rushed.</td>
+<td align="left">No evidence of planning. Strategy deeply flawed.</td>
+</tr>
+<tr class="even">
+<td align="left">Programming execution and reproducibility of results</td>
+<td align="left">Mastery of Python/R vocabulary means that the absolute minimum amount of code is used to get the job done. Code free from duplication. Each function encapsulates a single task, and repeated tasks are performed by functions, not copy and paste</td>
+<td align="left">Workable, but not elegant. Common programming idioms used to reduce code.</td>
+<td align="left">The code works, but copy-paste used often.</td>
+<td align="left">Most of the code works, but some parts do not work. Copy-paste used very often</td>
+<td align="left">Functions used inapproriately, or existing functions reinvented. Extensive use of copy and paste.</td>
+</tr>
+<tr class="odd">
+<td align="left">Programming Clarity</td>
+<td align="left">Code is a pleasure to read, and easy to understand. Code and comments form part of a seamless whole.</td>
+<td align="left">Comments used to discuss the why, and not how of code; to provide insight into complicated algorithms; and to indicate purpose of function (if not obvious from its name). Comment headings used to separate important sections of the code.</td>
+<td align="left">Generally easy to read, but some comments used inappropriately: either too many, or too few. Some variable names confusing.</td>
+<td align="left">Hard to understand. Poor choice of names and comments do not generally aid understanding.</td>
+<td align="left">Cannot understand code. The reader cannot understand why the code works.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="presentation-rubric" class="section level1">
+<h1>Presentation Rubric</h1>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Category</th>
+<th align="left">4</th>
+<th align="left">3</th>
+<th align="left">2</th>
+<th align="left">1</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Organisation</td>
+<td align="left">The speaker presents information in a logical and interesting sequence that the audience can follow.</td>
+<td align="left">The speaker presents information in a logical sequence that the audience can follow</td>
+<td align="left">Audience has difficulty following the presentation because the speaker jumps around and only shows minimal organization</td>
+<td align="left">Audience cannot understand presentation because there is no sequence of information</td>
+</tr>
+<tr class="even">
+<td align="left">Research objectives</td>
+<td align="left">Research objectives are clearly stated, appropriately repeated and strongly supported throughout the presentation.</td>
+<td align="left">Research objectives of presentation are stated and supported throughout the presentation.</td>
+<td align="left">Research objectives of the presentation are stated, but are only minimally supported throughout the presentation.</td>
+<td align="left">Research objectives of the presentation can be guessed, but are not explicitly stated in the presentation.</td>
+</tr>
+<tr class="odd">
+<td align="left">Language</td>
+<td align="left">Language choices are imaginative, memorable, and compelling, and enhance the effectiveness of the presentation. When using technical vocabulary or concepts, the speaker explains it in a way that all members of the class can understand.</td>
+<td align="left">Language choices are thoughtful and generally support the effectiveness of the presentation. The speaker uses technical vocabulary or concepts, but does not explain it in a way that all members of the class can understand.</td>
+<td align="left">Language choices are mundane and commonplace and partially support the effectiveness of the presentation. The speaker occasionally uses technical vocabulary and does not explain it in a way that all members of the class can understand.</td>
+<td align="left">Language choices are unclear and minimally support the effectiveness of the presentation. The speaker does not use technical vocabulary at all.</td>
+</tr>
+<tr class="even">
+<td align="left">Delivery</td>
+<td align="left">Delivery techniques (posture, gesture, eye contact, and vocal expressiveness) make the presentation compelling, speaker seems polished and confident, and presentation fits within allocated time.</td>
+<td align="left">Delivery techniques (posture, gesture, eye contact, and vocal expressiveness) make the presentation interesting, speaker seems comfortable and presentation fits within allocated time.</td>
+<td align="left">Delivery techniques (posture, gesture, eye contact, and vocal expressiveness) make the presentation understandable, speaker seems tentative, presentation is slightly over time.</td>
+<td align="left">Delivery techniques (posture, gesture, eye contact, and vocal expressiveness) detract from the understandability of the presentation, speaker seems uncomfortable, presentation clearly over time.</td>
+</tr>
+<tr class="odd">
+<td align="left">Approach to data visualization</td>
+<td align="left">The speaker’s visualization makes appropriate reference to and significantly supports the information being presented.</td>
+<td align="left">The speaker’s visualization makes appropriate reference to and generally support the information being presented.</td>
+<td align="left">The speaker’s visualization occasionally refers to and partially support the information being presented.</td>
+<td align="left">The speaker’s approach minimally refers to and support the information being presented.</td>
+</tr>
+<tr class="even">
+<td align="left">Subject knowledge</td>
+<td align="left">The speaker demonstrates full knowledge of subject by answering all questions with explanations and elaborations.</td>
+<td align="left">The speaker is at ease with expected answers to all questions, but fails to elaborate.</td>
+<td align="left">The speaker is uncomfortable with subject matter and is able to answer only rudimentary questions.</td>
+<td align="left">Group does not have a grasp of the subject matter and cannot answer questions related to the presentation topic.</td>
+</tr>
+<tr class="odd">
+<td align="left">Quality of presentation</td>
+<td align="left">Presentation slides are very clear, well crafted, organized, and compelling.</td>
+<td align="left">Presentation slides are mostly clear, reasonably well crafted and organised.</td>
+<td align="left">Presentation slides are unclear, lack polishing and organisation.</td>
+<td align="left">Presentation slides are confusing, clearly unpolished and disorganized.</td>
+</tr>
+<tr class="even">
+<td align="left">Reasoning/Approach to Data Analysis</td>
+<td align="left">The speaker presents one or two of the most plausible explanations for a given finding, but allows for the audience to make their own judgement. The methods employed are sound. The presenter is self-critical and honestly discusses flaws and limitations in methodology and provide suggestions as to how they could be remedied.</td>
+<td align="left">The methods are sometimes not fully adequate or consistently justified. The speaker is skeptical and self-critical, but not consistently.</td>
+<td align="left">The methods are questionable and not well justified. The speaker hasn’t blinded accepted findings, but hasn’t come up with many ways to check results either.</td>
+<td align="left">The methods are inappropriate and not justified. Leaps of logic without justification. Findings accepted uncritically. Inappropriate methods. The speaker has not thought about how to do better next time</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br>
+<br>
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

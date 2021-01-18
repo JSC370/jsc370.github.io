@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>JSC370H1S Winter 2020 Syllabus</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">JSC370H1S - University of Toronto</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Course
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="jsc370coursedocs_2020.html">
+        <span class="fas fa fas fa-info"></span>
+         
+        Class Documents
+      </a>
+    </li>
+    <li>
+      <a href="jsc370classlabstruct_2020.html">Course Structure</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="jsc370syllabus_2020.html">Syllabus</a>
+</li>
+<li>
+  <a href="jsc370schedule_2020.html">Schedule</a>
+</li>
+<li>
+  <a href="jsc370assignments_2020.html">Assignments</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">JSC370H1S Winter 2020 Syllabus</h1>
+
+</div>
+
+
+<p><br></p>
+<p><br></p>
+<div id="instructor" class="section level1">
+<h1>Instructor</h1>
+<p>Professor Nathan Taback</p>
+<p><i class="fas fa-paper-plane"></i> <a href="mailto:nathan.taback@utoronto.ca" class="email">nathan.taback@utoronto.ca</a></p>
+<p>Office: SS6027C</p>
+<p>Office hours: TBD</p>
+</div>
+<div id="class-time" class="section level1">
+<h1>Class Time</h1>
+<p>Teaching Assistants: Michael Moon and John Chen</p>
+<p>Classroom sessions: Thursday, 17:00 - 19:00, SS1086</p>
+<p>Laboratory sessions: Tuesday, 18:00 - 20:00, BA2200</p>
+</div>
+<div id="evaluation" class="section level1">
+<h1>Evaluation</h1>
+<p>Students will be evaluated according to <a href="http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies/PDF/grading.pdf">University Assessment and Grading Practices Policy</a>.</p>
+<p>The table below shows the weight of each assessment. Each assignment will consist of a written report (8%), and an oral presentation (8%).</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Assessment
+</th>
+<th style="text-align:right;">
+Weight (%)
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Assignment 1
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Assignment 2
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Assignment 3
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Assignment 4
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Assignment 5
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Lab attendance, draft assignment plan, presentations
+</td>
+<td style="text-align:right;">
+10
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+In-class attendance and participation
+</td>
+<td style="text-align:right;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+End of course reflection/survey
+</td>
+<td style="text-align:right;">
+5
+</td>
+</tr>
+</tbody>
+</table>
+<div id="marking-concerns" class="section level2">
+<h2>Marking Concerns</h2>
+<p>Any requests to have marked work re-evaluated must be made in writing to the instructor within one week of the date the work was returned. The request must contain a justification for consideration.</p>
+</div>
+</div>
+<div id="missed-work" class="section level1">
+<h1>Missed Work</h1>
+<div id="miss" class="section level2">
+<h2>Missed Work Policy</h2>
+<p>Valid reasons for missing an assessment include: illness; injury; or other relevant personal issues. Any of the following types of documentation will be accepted to verify a student’s reason for missing an assessment:</p>
+<ul>
+<li><p><a href="http://www.illnessverification.utoronto.ca/index.php">University of Toronto Verification of Student Illness or Injury form</a>. The form must indicate that the degree of incapacitation on academic functioning is moderate, serious, or severe in order to be considered a valid medical reason for missing.</p></li>
+<li><p>Student Health or Disability Related Certificate.</p></li>
+<li><p>A College Registrar’s Letter.</p></li>
+<li><p>Accessibility Services Letter.</p></li>
+</ul>
+<p>If an assignment due date is missed for a valid reason then your assignment will not be subject to a late penalty.</p>
+<p>Other reasons for missing an assignment due date, without documentation, will require prior approval by your instructor. If prior approval is not received and an assessment is not submitted on time then your assessment will be subject to a late penalty (see <a href="#latepenalty">Late Penalty</a>).</p>
+</div>
+<div id="missed-oral-presentation" class="section level2">
+<h2>Missed Oral Presentation</h2>
+<p>If an oral presentation is missed for a valid reason (<a href="#miss">see Missed Work Policy</a>) then you <em>may</em> be given another opportunity to give your oral presentation (even if you were part of a group) provided that class or lab time is available, otherwise you will be required to submit a video of your presentation within one week of the presentation date. If an oral presentation is missed and you do not contact the professor with a reason then a late penalty (see <a href="#latepenalty">Late Penalty</a>) will be applied, and you will be required to submit a video of your oral presentation within one week of the missed due date.</p>
+</div>
+<div id="missed-due-date-for-written-report" class="section level2">
+<h2>Missed Due Date for Written Report</h2>
+<p>If a written report due date is missed for a valid reason (<a href="#miss">see Missed Work Policy</a>) then you will be required to submit the written report within one week of the missed due date. If a due date is missed and no reason is given then a late penalty (see <a href="#latepenalty">Late Penalty</a>) will be applied.</p>
+</div>
+<div id="missed-lab-or-class" class="section level2">
+<h2>Missed Lab or Class</h2>
+<p>If a lab or class is missed for a valid reason (<a href="#miss">see Missed Work Policy</a>) then the the weight of the lab or class will be shifted to the other lab or class. If a lab or class is missed and no reason is given then you will recieve a grade of zero.</p>
+</div>
+<div id="latepenalty" class="section level2">
+<h2>Late Penalty</h2>
+<p>The late penalty for a missed due date is 20% per day (i.e., 24 hours). For example, if the work is submitted after 5 days (including weekend days) then you will receive a grade of zero for the missed work.</p>
+</div>
+</div>
+<div id="getting-help" class="section level1">
+<h1>Getting Help</h1>
+<div id="piazza-online-discussion-board" class="section level2">
+<h2>Piazza Online Discussion Board</h2>
+<p>This term you will have the option to use Piazza for class discussion. If you decide not to use Piazza it will not disadvantage you in any way, and will not affect official University outcomes (e.g., grades and learning opportunities). If you choose not to opt-into Piazza then you can ask questions or discuss course material with the instructor or TAs during office hours.</p>
+<p>Be sure to read <a href="https://piazza.com/legal/privacy">Piazza’s Privacy Policy</a> and <a href="https://piazza.com/legal/terms">Terms of Use</a> carefully. Take time to understand and be comfortable with what they say. They provide for substantial sharing and disclosure of your personal information held by Piazza, which affects your privacy. If you decide to participate in Piazza, only provide content that you are comfortable sharing under the terms of the Privacy Policy and Terms of Use.</p>
+<p>To sign up for the discussion forum click on the link :</p>
+<p><a href="https://piazza.com/utoronto.ca/winter2020/jsc370/home" class="uri">https://piazza.com/utoronto.ca/winter2020/jsc370/home</a></p>
+</div>
+<div id="additional-help" class="section level2">
+<h2>Additional Help</h2>
+<p>You can visit your instructor or the teaching assistants during their office hours.</p>
+<p>E-mail should only be used for emergencies or personal matters (see <a href="#communicate">Communicating With the Professor</a>).</p>
+</div>
+</div>
+<div id="communicate" class="section level1">
+<h1>Communicating with the Professor</h1>
+<p>Questions about course material such as:</p>
+<ul>
+<li>Is it appropriate to use this statistical method?</li>
+<li>How do I get rid of this error message?</li>
+<li>What is the due date?</li>
+</ul>
+<p>Can be posted on the discussion forums. Questions can be posted anonymously (so that the author is anonymous to other students but not to the instructors), if desired.</p>
+<p>E-mail the professor if the matter is private. For example,</p>
+<blockquote>
+<p>I missed the test because I was ill.</p>
+</blockquote>
+<p>Use your utoronto.ca e-mail account to ensure that your message doesn’t automatically go to a Junk folder and include your full name and student number.</p>
+</div>
+<div id="religious-accommodation" class="section level1">
+<h1>Religious Accommodation</h1>
+<p>As a student at the University of Toronto, you are part of a diverse community that welcomes and includes students and faculty from a wide range of cultural and religious traditions. For my part, I will make every reasonable effort to avoid scheduling tests, examinations, or other compulsory activities on religious holy days not captured by statutory holidays. Further to University Policy, if you anticipate being absent from class or missing a major course activity (such as a test or in-class assignment) due to a religious observance, please let me know as early in the course as possible, and with sufficient notice (at least two to three weeks), so that we can work together to make alternate arrangements.</p>
+</div>
+<div id="students-with-disabilities-or-accommodation-requirements" class="section level1">
+<h1>Students with Disabilities or Accommodation Requirements</h1>
+<p>Students with diverse learning styles and needs are welcome in this course. If you have an acute or ongoing disability issue or accommodation need, you should register with Accessibility Services (AS) at the beginning of the academic year by visiting <a href="http://www.studentlife.utoronto.ca/as/new-registration" class="uri">http://www.studentlife.utoronto.ca/as/new-registration</a>. Without registration, you will not be able to verify your situation with your instructors, and instructors will not be advised about your accommodation needs. AS will assess your situation, develop an accommodation plan with you, and support you in requesting accommodation for your course work. Remember that the process of accommodation is private: AS will not share details of your needs or condition with any instructor, and your instructors will not reveal that you are registered with AS.</p>
+</div>
+<div id="academic-integrity" class="section level1">
+<h1>Academic Integrity</h1>
+<p>All students, faculty and staff are expected to follow the University’s guidelines and policies on academic integrity. For students, this means following the standards of academic honesty when writing assignments, collaborating with fellow students, and writing tests and exams. Ensure that the work you submit for grading represents your own honest efforts. Plagiarism—representing someone else’s work as your own or submitting work that you have previously submitted for marks in another class or program—is a serious offence that can result in sanctions. Speak to me or your TA for advice on anything that you find unclear. To learn more about how to cite and use source material appropriately and for other writing support, see the U of T writing support website at <a href="http://www.writing.utoronto.ca" class="uri">http://www.writing.utoronto.ca</a>. Consult the Code of Behaviour on Academic Matters for a complete outline of the University’s policy and expectations. For more information, please see <a href="https://www.artsci.utoronto.ca/current/academic-advising-and-support/student-academic-integrity" class="uri">https://www.artsci.utoronto.ca/current/academic-advising-and-support/student-academic-integrity</a> and <a href="http://academicintegrity.utoronto.ca" class="uri">http://academicintegrity.utoronto.ca</a></p>
+</div>
+<div id="specific-medical-circumstances" class="section level1">
+<h1>Specific Medical Circumstances</h1>
+<p>If you become ill and it affects your ability to do your academic work, consult me right away. Normally, I will ask you for medical documentation in support of your specific medical circumstances. The University’s Verification of Student Illness or Injury (VOI) form is recommended because it indicates the impact and severity of the illness, while protecting your privacy about the details of the nature of the illness. You can submit a different form (like a letter from a doctor), as long as it is an original document, and it contains the same information as the VOI. For more information, please see <a href="http://www.illnessverification.utoronto.ca" class="uri">http://www.illnessverification.utoronto.ca</a> If you get a concussion, break your hand, or suffer some other acute injury, you should register with Accessibility Services as soon as possible.</p>
+</div>
+<div id="accommodation-for-personal-reasons" class="section level1">
+<h1>Accommodation for Personal Reasons</h1>
+<p>There may be times when you are unable to complete course work on time due to non-medical reasons. If you have concerns, speak to me or to an advisor in your College Registrar’s office; they can help you to decide if you want to request an extension or accommodation. They may be able to provide you with a College Registrar’s letter of support to give to your instructors, and importantly, connect you with other resources on campus for help with your situation.</p>
+</div>
+<div id="your-responsibilities" class="section level1">
+<h1>Your Responsibilities</h1>
+<p>The classroom sessions for this class are designed to actively engage you in the course material. We hope you’ll find them interesting, challenging, and fun, and an excellent opportunity to truly learn the material.</p>
+</div>
+
+<br>
+<br>
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
