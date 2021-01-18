@@ -20,8 +20,7 @@
 ### Week 1: Background, motivation, course setup
 
 January 12 Lecture:
-[Video](https://play.library.utoronto.ca/9ac9b25727a49764c13ad038400c32f8)
-[Slides]()
+[Video](https://play.library.utoronto.ca/9ac9b25727a49764c13ad038400c32f8) | [Slides]()
 
 January 12 Tutorial: Review of Python, Numpy, Pandas, Git, Colab
 [Video](https://play.library.utoronto.ca/ff44be69e8e5f022da9f587e1ac457b5)
