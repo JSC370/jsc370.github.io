@@ -22,27 +22,30 @@
 January 12 Lecture:
 [Video](https://play.library.utoronto.ca/9ac9b25727a49764c13ad038400c32f8) | [Slides]()
 
+  - [We don't need data scientists, we need data engineers](https://news.ycombinator.com/item?id=25775872)
+  
+  
 January 12 Tutorial: Review of Python, Numpy, Pandas, Git, Colab
 [Video](https://play.library.utoronto.ca/ff44be69e8e5f022da9f587e1ac457b5)
 
 ***
 ### Week 2 
 
-January 19: Guest Lecture: Ben Allison
+January 19: Guest Lecture: Ben Allison, Recommender Systems at Amazon
 
 January 21: Assignment 1 lab
 
 ***
 ### Week 3
 
-January 25: Lecture 3
+January 25: Lecture 3: Confounding
 
 January 21: Assignment 1 presentations
 
 ***
 ### Week 4
 
-February 2nd: Guest Lecture: Farah Bastien
+February 2nd: Guest Lecture: Farah Bastien, Sports Analytics for the Leafs and the Raptors
 
 February 4th: Assignment 2 lab
 
@@ -50,7 +53,10 @@ February 4th: Assignment 2 lab
 ***
 ### Week 5
 
-February 9: Lecture 3
+February 9: Lecture 5: Goodhart's Law
+
+ - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
+ - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
 
 January 11: Assignment 2 presentations
 
@@ -62,7 +68,7 @@ Reading Week
 ***
 ### Week 7
 
-February 23: Guest Lecture: Wanying Zhao
+February 23: Guest Lecture: Wanying Zhao, Study design at Trilliam Foundation
 
 February 25: Assignment 3 lab
 
@@ -77,7 +83,7 @@ February 4th: Assignment 3 presentations
 ***
 ### Week 9
 
-March 9: Guest Lecture: TBD
+March 9: Guest Lecture: TBD, NLP
 
 March 11: Assignment 4 lab
 
@@ -92,7 +98,7 @@ March 18: Assignment 4 presentations
 ***
 ### Week 11
 
-March 23: Guest Lecture: Robert Grant
+March 23: Guest Lecture: Robert Grant, Cancer Genomics
 
 March 25: Assignment 5 lab
 
@@ -106,7 +112,7 @@ April 1: Assignment 5 presentations
 ***
 ### Week 13
 
-April 6: Lecture 12
+April 6: Lecture 12: The future of Data Science
 
 April 8: Paper presentations
 
