@@ -20,7 +20,7 @@
 ### Week 1: Background, motivation, course setup
 
 January 12 Lecture:
-[Video](https://play.library.utoronto.ca/9ac9b25727a49764c13ad038400c32f8) | [Slides]()
+[Video](https://play.library.utoronto.ca/9ac9b25727a49764c13ad038400c32f8) | [Slides](lectures/lec1.pdf)
 
   - [We don't need data scientists, we need data engineers](https://news.ycombinator.com/item?id=25775872)
   
@@ -31,21 +31,23 @@ January 12 Tutorial: Review of Python, Numpy, Pandas, Git, Colab
 ***
 ### Week 2 
 
-January 19: Guest Lecture: Ben Allison, Recommender Systems at Amazon
+January 19: Guest Lecture: [Ben Allison, Principal Machine Learning Scientist at Amazon](https://www.linkedin.com/in/ben-allison-2b881458/?originalSubdomain=uk)
 
 January 21: Lecture on Latent variable models and collaborative filtering, and  Assignment 1 lab
+
+ - [Collaborative Filtering and the Missing at Random Assumption](https://arxiv.org/abs/1206.5267)
 
 ***
 ### Week 3
 
-January 25: Lecture 3: Confounding
+January 25: Lecture 3: Confounding, censoring
 
 January 21: Assignment 1 presentations
 
 ***
 ### Week 4
 
-February 2nd: Guest Lecture: Farah Bastien, Sports Analytics for the Leafs and the Raptors
+February 2nd: Guest Lecture: [Farah Bastien, Manager, Data Science/Data Engineer at MLSE (Maple Leaf Sports & Entertainment Partnership)](https://www.linkedin.com/in/farahbastien/?originalSubdomain=ca): Sports Analytics for the Leafs and the Raptors
 
 February 4th: Assignment 2 lab 
 
