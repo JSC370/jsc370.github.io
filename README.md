@@ -32,6 +32,7 @@ January 12 Tutorial: Review of Python, Numpy, Pandas, Git, Colab
 ### Week 2 
 
 January 19: Guest Lecture: [Ben Allison, Principal Machine Learning Scientist at Amazon](https://www.linkedin.com/in/ben-allison-2b881458/?originalSubdomain=uk)
+  - [Slides for second part of lecture](lectures/lec2.pdf)
 
 January 21: Lecture on Latent variable models and collaborative filtering, and  Assignment 1 lab
 
