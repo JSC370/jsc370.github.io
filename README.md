@@ -33,7 +33,7 @@ January 12 Tutorial: Review of Python, Numpy, Pandas, Git, Colab
 
 January 19: Guest Lecture: Ben Allison, Recommender Systems at Amazon
 
-January 21: Assignment 1 lab
+January 21: Lecture on Latent variable models and collaborative filtering, and  Assignment 1 lab
 
 ***
 ### Week 3
@@ -47,13 +47,13 @@ January 21: Assignment 1 presentations
 
 February 2nd: Guest Lecture: Farah Bastien, Sports Analytics for the Leafs and the Raptors
 
-February 4th: Assignment 2 lab
+February 4th: Assignment 2 lab 
 
 
 ***
 ### Week 5
 
-February 9: Lecture 5: Goodhart's Law
+February 9: Lecture 5: Goodhart's Law, Decision theory, + time series
 
  - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
  - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
@@ -75,7 +75,7 @@ February 25: Assignment 3 lab
 ***
 ### Week 8
 
-March 2nd: Lecture 7
+March 2nd: Lecture 7: Outlier detection
 
 February 4th: Assignment 3 presentations
 
@@ -83,14 +83,14 @@ February 4th: Assignment 3 presentations
 ***
 ### Week 9
 
-March 9: Guest Lecture: TBD, NLP
+March 9: Natural Language processing
 
 March 11: Assignment 4 lab
 
 ***
 ### Week 10
 
-March 16: Lecture 9
+March 16: Lecture 9: Using large off-the-shelf models.
 
 March 18: Assignment 4 presentations
 
@@ -105,7 +105,7 @@ March 25: Assignment 5 lab
 ***
 ### Week 12
 
-March 30: Lecture 11
+March 30: Lecture 11: Reproducibility and version control for data
 
 April 1: Assignment 5 presentations
 
