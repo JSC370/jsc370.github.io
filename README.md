@@ -36,6 +36,7 @@ January 19: Guest Lecture: [Ben Allison, Principal Machine Learning Scientist at
 
 January 21: Lecture on Latent variable models and collaborative filtering, intro to Assignment 1
  - [Slides](lectures/lec2.pdf)
+ - [Intro to JAX](https://colinraffel.com/blog/you-don-t-know-jax.html)
  - [Collaborative Filtering and the Missing at Random Assumption](https://arxiv.org/abs/1206.5267)
  - [If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
 
