@@ -9,8 +9,9 @@
 * Email: <duvenaud@cs.toronto.edu>, please put "JSC370" or "JSC470" in the title.
 * Location: Zoom (see Quercus for details)
 * Time: Tuesday and Thursdays, 3-5pm
+* Office hours: Wednesdays 4-5 by zoom.
 * Course Forum: [Discourse](https://bb-2021-01.teach.cs.toronto.edu/c/jsc370)
-
+* [Course syllabus](syllabus.pdf)
 
 ## Course Structure
 
@@ -31,22 +32,24 @@ January 12 Tutorial: Review of Python, Numpy, Pandas, Git, Colab
 ***
 ### Week 2 
 
-January 19: Guest Lecture: [Ben Allison, Principal Machine Learning Scientist at Amazon](https://www.linkedin.com/in/ben-allison-2b881458/?originalSubdomain=uk)
-  - [Slides for second part of lecture](lectures/lec2.pdf)
+January 19: Guest Lecture: [Ben Allison, Principal Machine Learning Scientist at Amazon](https://www.linkedin.com/in/ben-allison-2b881458/?originalSubdomain=uk) | [Video](https://play.library.utoronto.ca/e8aa287ea9fe2fbb90c6489077c4588f)
 
-January 21: Lecture on Latent variable models and collaborative filtering, and  Assignment 1 lab
-
+January 21: Lecture on Latent variable models and collaborative filtering, intro to Assignment 1
+ - [Slides](lectures/lec2.pdf)
  - [Collaborative Filtering and the Missing at Random Assumption](https://arxiv.org/abs/1206.5267)
+ - [If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
 
 ***
 ### Week 3
 
-January 25: Lecture 3: Confounding, censoring
+January 25: Lecture 3: Confounding, censoring, and assignment 1 lab.
 
 January 21: Assignment 1 presentations
 
 ***
 ### Week 4
+
+Feb 1st: Assignment 1 due by midnight.
 
 February 2nd: Guest Lecture: [Farah Bastien, Manager, Data Science/Data Engineer at MLSE (Maple Leaf Sports & Entertainment Partnership)](https://www.linkedin.com/in/farahbastien/?originalSubdomain=ca): Sports Analytics for the Leafs and the Raptors
 
@@ -66,6 +69,8 @@ January 11: Assignment 2 presentations
 ***
 ### Week 6 
 
+Feb 15: Assignment 2 due by midnight.
+
 Reading Week
 
 ***
@@ -82,9 +87,10 @@ March 2nd: Lecture 7: Outlier detection
 
 February 4th: Assignment 3 presentations
 
-
 ***
 ### Week 9
+
+March 8th: Assignment 3 due by midnight.
 
 March 9: Natural Language processing
 
@@ -101,6 +107,8 @@ March 18: Assignment 4 presentations
 ***
 ### Week 11
 
+March 22: Assignment 4 due by midnight.
+
 March 23: Guest Lecture: Robert Grant, Cancer Genomics
 
 March 25: Assignment 5 lab
@@ -114,6 +122,8 @@ April 1: Assignment 5 presentations
 
 ***
 ### Week 13
+
+April 5: Assignment 5 due by midnight.
 
 April 6: Lecture 12: The future of Data Science
 
