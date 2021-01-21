@@ -39,11 +39,12 @@ January 21: Lecture on Latent variable models and collaborative filtering, intro
  - [Intro to JAX](https://colinraffel.com/blog/you-don-t-know-jax.html)
  - [Collaborative Filtering and the Missing at Random Assumption](https://arxiv.org/abs/1206.5267)
  - [If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
+ - [Intro to probabilistic matrix factorization](https://towardsdatascience.com/probabilistic-matrix-factorization-b7852244a321)
 
 ***
 ### Week 3
 
-January 25: Lecture 3: Confounding, censoring, and assignment 1 lab.
+January 25: Lecture 3: Confounding, censoring, and assignment 1 lab.  [Assigment 1](https://drive.google.com/file/d/1tyIy_zP8_rKoLBxFSIjgBw5wo2CTKrRo/view?usp=sharing)
 
 January 21: Assignment 1 presentations
 
