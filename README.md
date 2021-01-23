@@ -35,7 +35,7 @@ January 12 Tutorial: Review of Python, Numpy, Pandas, Git, Colab
 January 19: Guest Lecture: [Ben Allison, Principal Machine Learning Scientist at Amazon](https://www.linkedin.com/in/ben-allison-2b881458/?originalSubdomain=uk) | [Video](https://play.library.utoronto.ca/e8aa287ea9fe2fbb90c6489077c4588f)
 
 January 21: Lecture on Latent variable models and collaborative filtering, intro to Assignment 1
- - [Slides](lectures/lec2.pdf)
+ - [Slides](lectures/lec2.pdf) | [Video](https://play.library.utoronto.ca/6f3f406963e6cfd5c8f2b60b620385b5)
  - [Intro to JAX](https://colinraffel.com/blog/you-don-t-know-jax.html)
  - [Collaborative Filtering and the Missing at Random Assumption](https://arxiv.org/abs/1206.5267)
  - [If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics](https://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
