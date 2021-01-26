@@ -24,6 +24,7 @@ January 12 Lecture:
 [Video](https://play.library.utoronto.ca/9ac9b25727a49764c13ad038400c32f8) | [Slides](lectures/lec1.pdf)
 
   - [We don't need data scientists, we need data engineers](https://news.ycombinator.com/item?id=25775872)
+  - [Data Science Subreddit](https://www.reddit.com/r/datascience/) - Has great discussion of what jobs are available, career trajectories and considerations, common problems, etc.
   
   
 January 12 Tutorial: Review of Python, Numpy, Pandas, Git, Colab
@@ -45,6 +46,11 @@ January 21: Lecture on Latent variable models and collaborative filtering, intro
 ### Week 3
 
 January 25: Lecture 3: Confounding, censoring, and assignment 1 lab.  [Assigment 1](https://drive.google.com/file/d/1tyIy_zP8_rKoLBxFSIjgBw5wo2CTKrRo/view?usp=sharing)
+
+Some links on confounding and Simpson's paradox:
+ - [Beware Regional Scatterplots](https://slatestarcodex.com/2016/04/02/beware-regional-scatterplots/)
+ - [Beware Summary Statistics](https://slatestarcodex.com/2015/05/19/beware-summary-statistics/)
+ - [Intro to Simpson's paradox](https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9)
 
 January 21: Assignment 1 presentations
 
