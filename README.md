@@ -45,7 +45,7 @@ January 21: Lecture on Latent variable models and collaborative filtering, intro
 ***
 ### Week 3
 
-January 25: Lecture 3: Confounding, censoring, and assignment 1 lab.  [Assigment 1](https://drive.google.com/file/d/1tyIy_zP8_rKoLBxFSIjgBw5wo2CTKrRo/view?usp=sharing)
+January 25: Lecture 3: Confounding, censoring, and assignment 1 lab.  [Video](https://play.library.utoronto.ca/85b2043bfbcd0ea1a69967c10ea4951c) | [Assigment 1](https://drive.google.com/file/d/1tyIy_zP8_rKoLBxFSIjgBw5wo2CTKrRo/view?usp=sharing)
 
 Some links on confounding and Simpson's paradox:
  - [Beware Regional Scatterplots](https://slatestarcodex.com/2016/04/02/beware-regional-scatterplots/)
