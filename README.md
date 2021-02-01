@@ -52,7 +52,7 @@ Some links on confounding and Simpson's paradox:
  - [Beware Summary Statistics](https://slatestarcodex.com/2015/05/19/beware-summary-statistics/)
  - [Intro to Simpson's paradox](https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9)
 
-January 21: Assignment 1 presentations
+January 21: Assignment 1 Presentations [Video](https://play.library.utoronto.ca/badf6257e5dee680e54d4a75db185bc8)
 
 ***
 ### Week 4
