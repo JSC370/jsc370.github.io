@@ -66,7 +66,7 @@ February 4th: Shapley values, causality, and Pearl's do-calculus.
  - [Slides introducing Do-calculus](https://www.cs.ubc.ca/labs/lci/mlrg/slides/doCalc.pdf)
 
  - [SHAP values explained exactly how you wished someone explained to you](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
- - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874
+ - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
  - [Making sense of Shapley values](https://towardsdatascience.com/making-sense-of-shapley-values-dc67a8e4c5e8)
  - [Causal Shapley Values](https://arxiv.org/abs/2011.01625)
  - [Problems with Shapley-value-based explanations as feature importance
