@@ -59,18 +59,24 @@ January 21: Assignment 1 Presentations [Video](https://play.library.utoronto.ca/
 
 Feb 1st: Assignment 1 due by midnight.
 
-February 2nd: Guest Lecture: [Farah Bastien, Manager, Data Science/Data Engineer at MLSE (Maple Leaf Sports & Entertainment Partnership)](https://www.linkedin.com/in/farahbastien/?originalSubdomain=ca): Sports Analytics for the Leafs and the Raptors
+February 2nd: Guest Lecture: [Farah Bastien, Manager, Data Science/Data Engineer at MLSE (Maple Leaf Sports & Entertainment Partnership)](https://www.linkedin.com/in/farahbastien/?originalSubdomain=ca): Sports Analytics for the Leafs and the Raptors. [Video](https://play.library.utoronto.ca/f528b2c0772e5ed05dee6ad27a25126f)
 
-February 4th: Assignment 2 lab 
+February 4th: Shapley values, causality, and Pearl's do-calculus.
+
+ - [Slides introducing Do-calculus](https://www.cs.ubc.ca/labs/lci/mlrg/slides/doCalc.pdf)
+
+ - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874
+ - [Making sense of Shapley values](https://towardsdatascience.com/making-sense-of-shapley-values-dc67a8e4c5e8)
+ - [Causal Shapley Values](https://arxiv.org/abs/2011.01625)
+ - [Problems with Shapley-value-based explanations as feature importance
+measures](http://proceedings.mlr.press/v119/kumar20e/kumar20e.pdf)
 
 
 ***
 ### Week 5
 
-February 9: Lecture 5: Goodhart's Law, Decision theory, + time series
+February 9: Assignment 2 lab
 
- - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
- - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
 
 January 11: Assignment 2 presentations
 
@@ -91,7 +97,11 @@ February 25: Assignment 3 lab
 ***
 ### Week 8
 
-March 2nd: Lecture 7: Outlier detection
+March 2nd: Lecture 7: Outlier detection and Goodhart's Law, Decision theory, + time series
+
+ - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
+ - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
+
 
 February 4th: Assignment 3 presentations
 
