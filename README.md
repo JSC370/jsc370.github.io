@@ -61,7 +61,7 @@ Feb 1st: Assignment 1 due by midnight.
 
 February 2nd: Guest Lecture: [Farah Bastien, Manager, Data Science/Data Engineer at MLSE (Maple Leaf Sports & Entertainment Partnership)](https://www.linkedin.com/in/farahbastien/?originalSubdomain=ca): Sports Analytics for the Leafs and the Raptors. [Video](https://play.library.utoronto.ca/f528b2c0772e5ed05dee6ad27a25126f)
 
-February 4th: Shapley values, causality, and Pearl's do-calculus.
+February 4th: Shapley values, causality, and Pearl's do-calculus. [Video](https://play.library.utoronto.ca/eec9e86d463adec4e535687f9a512e32)
 
  - [Slides introducing Do-calculus](https://www.cs.ubc.ca/labs/lci/mlrg/slides/doCalc.pdf)
 
