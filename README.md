@@ -84,7 +84,7 @@ January 11: Assignment 2 presentations
 ***
 ### Week 6 
 
-Feb 15: Assignment 2 due by midnight.
+Feb 17: Assignment 2 due by midnight.
 
 Reading Week
 
