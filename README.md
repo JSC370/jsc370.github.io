@@ -76,10 +76,10 @@ measures](http://proceedings.mlr.press/v119/kumar20e/kumar20e.pdf)
 ***
 ### Week 5
 
-February 9: Assignment 2 lab
+February 9: Assignment 2 lab [Video](https://play.library.utoronto.ca/cf85f578b8a08921a1e38d70bf9a76e3)
 
 
-January 11: Assignment 2 presentations
+February 11: Assignment 2 presentations [Video](https://play.library.utoronto.ca/0814e9dea30a4b6e375ea17c7f39931e)
 
 ***
 ### Week 6 
