@@ -91,7 +91,7 @@ Reading Week
 ***
 ### Week 7
 
-February 23: Guest Lecture: Wanying Zhao, Study design at Trilliam Foundation
+February 23: Guest Lecture: Wanying Zhao, Study design at Trilliam Foundation [Video](https://play.library.utoronto.ca/8173bdfd15bef2dcb680b7c6973b7d50)
 
 February 25: Assignment 3 lab
 
