@@ -93,16 +93,20 @@ Reading Week
 
 February 23: Guest Lecture: Wanying Zhao, Study design at Trilliam Foundation [Video](https://play.library.utoronto.ca/8173bdfd15bef2dcb680b7c6973b7d50)
 
-February 25: Assignment 3 lab
+February 25: Natural Language processing [Video](https://play.library.utoronto.ca/578a8dc55e4364f50c35e8547fee787d)
+ - [Latent Semantic Aalysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis)
+ - [Topic Modeling + LDA Slides](https://www.cs.cmu.edu/~mgormley/courses/10701-f16/slides/lecture20-topic-models.pdf)
+ - [Original LDA Paper](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+ - [Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
+ - [RNN + Deep Language Model Slides](http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture10.pdf)
+ - [Talk to Transformer](https://app.inferkit.com/demo)
+ - [To What Extent is GPT-3 Capable of Reasoning?](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
+
 
 ***
 ### Week 8
 
-March 2nd: Lecture 7: Outlier detection and Goodhart's Law, Decision theory, + time series
-
- - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
- - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
-
+March 2nd: Assignment 3 Lab
 
 February 4th: Assignment 3 presentations
 
@@ -111,14 +115,18 @@ February 4th: Assignment 3 presentations
 
 March 8th: Assignment 3 due by midnight.
 
-March 9: Natural Language processing
+March 9: Guest Lecture: [Alp Kucukelbir, Chief Scientist, Fero Labs](https://www.proditus.com/)
 
 March 11: Assignment 4 lab
 
 ***
 ### Week 10
 
-March 16: Lecture 9: Using large off-the-shelf models.
+March 16: Lecture 9: Using large off-the-shelf models, Outlier detection and Goodhart's Law, Decision theory, + time series
+
+ - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
+ - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
+
 
 March 18: Assignment 4 presentations
 
