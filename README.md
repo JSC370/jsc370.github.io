@@ -106,9 +106,9 @@ February 25: Natural Language processing [Video](https://play.library.utoronto.c
 ***
 ### Week 8
 
-March 2nd: Assignment 3 Lab
+March 2nd: Assignment 3 Lab [Video](https://play.library.utoronto.ca/bacc6a397cf2a28a24e42c7507e98f37)
 
-February 4th: Assignment 3 presentations
+March 4th: Assignment 3 presentations
 
 ***
 ### Week 9
