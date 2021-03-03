@@ -113,9 +113,9 @@ March 4th: Assignment 3 presentations
 ***
 ### Week 9
 
-March 8th: Assignment 3 due by midnight.
-
 March 9: Guest Lecture: [Alp Kucukelbir, Chief Scientist, Fero Labs](https://www.proditus.com/)
+
+March 10th: Assignment 3 due by midnight.
 
 March 11: Assignment 4 lab
 
