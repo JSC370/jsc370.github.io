@@ -113,7 +113,7 @@ March 4th: Assignment 3 presentations [Video](https://play.library.utoronto.ca/1
 ***
 ### Week 9
 
-March 9: Guest Lecture: [Alp Kucukelbir, Chief Scientist, Fero Labs](https://www.proditus.com/)
+March 9: Guest Lecture: [Alp Kucukelbir, Chief Scientist, Fero Labs](https://www.proditus.com/) [Video](https://play.library.utoronto.ca/22cba9ced54676d7dc8c1343db51e574)
 
 March 10th: Assignment 3 due by midnight.
 
