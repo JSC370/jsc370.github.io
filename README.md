@@ -117,7 +117,7 @@ March 9: Guest Lecture: [Alp Kucukelbir, Chief Scientist, Fero Labs](https://www
 
 March 10th: Assignment 3 due by midnight.
 
-March 11: Assignment 4 lab
+March 11: Lecture: Time Series [Video](https://play.library.utoronto.ca/c346a6972624404d689c715770f7dc87)
 
 ***
 ### Week 10
