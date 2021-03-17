@@ -122,10 +122,7 @@ March 11: Lecture: Time Series [Video](https://play.library.utoronto.ca/c346a697
 ***
 ### Week 10
 
-March 16: Lecture 9: Using large off-the-shelf models, Outlier detection and Goodhart's Law, Decision theory, + time series
-
- - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
- - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
+March 16: Assignment 4 Lab [Video](https://play.library.utoronto.ca/b701c477d58e3e6608e1ad3fd43b97a9)
 
 
 March 18: Assignment 4 presentations
@@ -143,7 +140,11 @@ March 25: Assignment 5 lab
 ***
 ### Week 12
 
-March 30: Lecture 11: Reproducibility and version control for data
+March 30: Lecture 11: Reproducibility and version control for data, Using large off-the-shelf models, Outlier detection and Goodhart's Law, Decision theory, + time series
+
+ - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
+ - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
+
 
 April 1: Assignment 5 presentations
 
