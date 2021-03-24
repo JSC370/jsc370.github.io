@@ -133,7 +133,7 @@ March 18: Assignment 4 presentations
 
 March 22: Assignment 4 due by midnight.
 
-March 23: Guest Lecture: Robert Grant, Cancer Genomics
+March 23: Guest Lecture: Robert Grant, Cancer Genomics [Video](https://play.library.utoronto.ca/f0238765cf9d33b07a40de5a6eb6b94f)
 
 March 25: Assignment 5 lab
 
