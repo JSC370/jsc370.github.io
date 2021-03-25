@@ -135,7 +135,19 @@ March 22: Assignment 4 due by midnight.
 
 March 23: Guest Lecture: Robert Grant, Cancer Genomics [Video](https://play.library.utoronto.ca/f0238765cf9d33b07a40de5a6eb6b94f)
 
-March 25: Assignment 5 lab
+March 25: Surival analysis and clustering
+ - [Nathan's lecture slides](2020/jsc370_classforA2ver1.1.pdf)
+ - [Proportional Hazards Lecture Notes](https://www.math.ucsd.edu/~rxu/math284/slect5.pdf)
+ - [Gaussian Mixture Model Slides](https://www.cs.cmu.edu/~epxing/Class/10708-15/slides/lecture8-EM.pdf)
+
+
+Related reading:
+
+ - [Related blog post](https://towardsdatascience.com/deep-learning-for-survival-analysis-fdd1505293c9)
+ - [DeepSurv paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0482-1)
+ - [Cox-nnet](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006076)
+ - [RNN-Surv](http://medianetlab.ee.ucla.edu/papers/RNN_SURV.pdf)
+ - [Time-to-Event Prediction with Neural Networks and Cox Regression](https://jmlr.org/papers/volume20/18-424/18-424.pdf)
 
 ***
 ### Week 12
