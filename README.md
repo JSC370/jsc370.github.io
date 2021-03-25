@@ -135,7 +135,7 @@ March 22: Assignment 4 due by midnight.
 
 March 23: Guest Lecture: Robert Grant, Cancer Genomics [Video](https://play.library.utoronto.ca/f0238765cf9d33b07a40de5a6eb6b94f)
 
-March 25: Surival analysis and clustering
+March 25: Surival analysis and clustering [Video](https://play.library.utoronto.ca/062f8dc84c68a7dba4e4143ee27da0d7)
  - [Nathan's lecture slides](2020/jsc370_classforA2ver1.1.pdf)
  - [Proportional Hazards Lecture Notes](https://www.math.ucsd.edu/~rxu/math284/slect5.pdf)
  - [Gaussian Mixture Model Slides](https://www.cs.cmu.edu/~epxing/Class/10708-15/slides/lecture8-EM.pdf)
