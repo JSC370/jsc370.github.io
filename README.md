@@ -152,11 +152,7 @@ Related reading:
 ***
 ### Week 12
 
-March 30: Lecture 11: Reproducibility and version control for data, Using large off-the-shelf models, Outlier detection and Goodhart's Law, Decision theory, + time series
-
- - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
- - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
-
+March 30: Lecture 11: Assignmnent 5 lab [Video](https://play.library.utoronto.ca/1853bf647eed425d83612c5c56d09398)
 
 April 1: Assignment 5 presentations
 
@@ -165,7 +161,10 @@ April 1: Assignment 5 presentations
 
 April 5: Assignment 5 due by midnight.
 
-April 6: Lecture 12: The future of Data Science
+April 6: Lecture 12: The future of Data Science, Reproducibility and version control for data, Using large off-the-shelf models, Outlier detection and Goodhart's Law, Decision theory, + time series
+
+ - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
+ - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
 
 April 8: Paper presentations
 
