@@ -159,12 +159,17 @@ April 1: Assignment 5 presentations
 ***
 ### Week 13
 
-April 5: Assignment 5 due by midnight.
+April 12: Assignment 5 due by midnight.
 
-April 6: Lecture 12: The future of Data Science, Reproducibility and version control for data, Using large off-the-shelf models, Outlier detection and Goodhart's Law, Decision theory, + time series
+April 6: Lecture 12: Stochastic Variational Inference for capturing uncertainty
 
+April 8: Short paper presentations
+
+
+***
+
+Extra reading:
+
+ - [Replacing statistics with modern predictive models](https://cerebralab.com/Replacing_statistics_with_modern_predictive_models)
  - [Blog post](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c)
  - [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/)
-
-April 8: Paper presentations
-
