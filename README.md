@@ -159,15 +159,14 @@ April 1: Assignment 5 presentations
 ***
 ### Week 13
 
-April 12: Assignment 5 due by midnight.
-
-April 6: Lecture 12: Stochastic Variational Inference for capturing uncertainty
+April 6: Lecture 12: Stochastic Variational Inference for capturing uncertainty [Video](https://play.library.utoronto.ca/015a6b300766a7b4478eb5983cdbc099)
 
  - [Bayesian NNs Colab 1](https://colab.research.google.com/github/papercup-open-source/tutorials/blob/master/intro_bnn/Bayesian_neural_networks_Part_1.ipynb)
  - [Bayesian NNs Colab 1](https://colab.research.google.com/github/papercup-open-source/tutorials/blob/master/intro_bnn/Bayesian_neural_networks_Part_2.ipynb)
 
 April 8: Short paper presentations
 
+April 12: Assignment 5 due by midnight.
 
 ***
 
