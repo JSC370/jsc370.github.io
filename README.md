@@ -1,5 +1,5 @@
 # JSC370 and JSC470: Data Science II and III
-# Winter 2021
+# Winter 2022
 
 <img src="assets/datascience.png" width="400">
 
